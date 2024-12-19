@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+
+test/
+vectorstores/
+.chainlit/
+
+data/
+materials/
+
+.env
